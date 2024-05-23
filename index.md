@@ -2,7 +2,10 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Hi, I'm minkyu kim 👋. 
+I'm a M.S student at [POSTECH Efficient Learning Lab (EffL)](http://effl.postech.ac.kr), advised by [Jaeho Lee](https://jaeho-lee.github.io). My research interests are multimodal learning that trains a deep learning-based method by using data from various domains (i.e. image, text, and audio), resolving the tasks. 
+
+<!--Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
 [Link to another page](./another-page.html).
 
