@@ -7,15 +7,15 @@ I'm a M.S student at [POSTECH Efficient Learning Lab (EffL)](http://effl.postech
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-# Education
+## Education 🏫
 
-# Publications
+## Publications 📜
 
-# Research Experience
+## Research Experience 🔬
 
-# Teaching Experience
+## Teaching Experience  📝
 
-# Services
+## Services 😊
 
 <!--[Link to another page](./another-page.html).
 
