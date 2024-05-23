@@ -3,11 +3,21 @@ layout: default
 ---
 
 ### Hi, I'm minkyu kim 👋
-I'm a M.S student at [POSTECH Efficient Learning Lab (EffL)](http://effl.postech.ac.kr), advised by [Jaeho Lee](https://jaeho-lee.github.io). My research interests are multimodal learning that trains a deep learning-based method by using data from various domains (i.e. image, text, and audio), resolving the tasks. 
+I'm a M.S student at [POSTECH Efficient Learning Lab (EffL)](http://effl.postech.ac.kr), advised by [Jaeho Lee](https://jaeho-lee.github.io). My research interests are multimodal learning that trains a deep learning-based method by using data from various domains (i.e. image, text, and audio) and use it to solve many tasks. 
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-[Link to another page](./another-page.html).
+# Education
+
+# Publications
+
+# Research Experience
+
+# Teaching Experience
+
+# Services
+
+<!--[Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
@@ -124,3 +134,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+ -->
