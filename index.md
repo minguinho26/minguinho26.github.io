@@ -3,11 +3,29 @@ layout: default
 ---
 
 ### Hi, I'm minkyu kim 👋
-I'm a M.S student at [POSTECH Efficient Learning Lab (EffL)](http://effl.postech.ac.kr), advised by [Jaeho Lee](https://jaeho-lee.github.io). My research interests are multimodal learning that trains a deep learning-based method by using data from various domains (i.e. image, text, and audio) and uses it to solve many tasks. 
+I'm a M.S. student at [POSTECH Efficient Learning Lab (EffL)](http://effl.postech.ac.kr), advised by [Jaeho Lee](https://jaeho-lee.github.io). My research interests are multimodal learning that trains a deep learning-based method by using data from various domains (i.e. image, text, and audio) and uses it to solve many tasks. 
+
+(constructing...)
+
+In EffL, I'm mainly focusing on data compression. My recent work is [text-guided image compression](https://taco-nic.github.io). Before joining EffL, I worked with [Prof. Tae-Hyun Oh]() on Audio Captioning, and with Prof. Sanpil Kim on event-based photometric stereo.
+
+
+In EffL, I'm mainly focusing on data compression. My recent work is [text-guided image compression](https://taco-nic.github.io). Before joining EffL, I worked with [Tae-Hyun Oh]() on Audio Captioning, and with [Sanpil Kim]() on event-based photometric stereo.
+
+
+conducted research using data from various domains.
+
+Before joining in EfFL, I worked with 
+
+  on Event-base Photometric stereo, 
+
+
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
 ## Education 🏫
+
+* ### POSTECH (Pohang University of Science and Technology) 
 
 ## Publications 📜
 
