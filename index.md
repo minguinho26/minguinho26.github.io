@@ -22,7 +22,7 @@ Hagyeong Lee\*, **Minkyu Kim**\*, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho L
 
 ## Teaching Experience  📝
 
-* (Fall 2023) [EECE454 - Introduction to ML Systems, Teaching Assistant](https://jaeho-lee.github.io/docs/teaching/fall23/)
+* (Fall 2023, Teaching Assistant) [EECE454 - Introduction to ML Systems](https://jaeho-lee.github.io/docs/teaching/fall23/)
 
 
 ## Services 😊
