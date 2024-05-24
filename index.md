@@ -3,20 +3,32 @@ layout: default
 ---
 
 ### Hi, I'm minkyu kim 👋
-I'm a M.S. student at [POSTECH Efficient Learning Lab (EffL)](http://effl.postech.ac.kr), advised by [Prof. Jaeho Lee](https://jaeho-lee.github.io). My research interests are multimodal learning that trains a deep learning-based method by using data from various domains (i.e. image, text, and audio) and uses it to solve many tasks. 
+I'm a second-year M.S. student at [POSTECH Efficient Learning Lab (EffL)](http://effl.postech.ac.kr), advised by [Prof. Jaeho Lee](https://jaeho-lee.github.io). Before joining POSTECH, I completed my B.S. degree in electrical and electronics engineering from [Chung-Ang University (CAU)](https://www.cau.ac.kr/).
 
-In EffL, I'm mainly focusing on data compression. My recent work is [text-guided image compression](https://taco-nic.github.io). Before joining EffL, I worked with [Prof. Tae-Hyun Oh](https://ami.postech.ac.kr/members/tae-hyun-oh) on [Audio Captioning](https://prefixaac.github.io), and with [Prof. Sangpil Kim](https://kuaicv.com/professor/) on event-based photometric stereo.
+My research interest lies in multimodal learning, which trains artificial intelligence by using data from various domains (such as images, text, and audio) and uses it to solve multiple tasks. Additionally, my main goal is to design artificial intelligence that assists people in various situations.
 
-
-
+In EffL, I'm mainly focusing on data compression. My recent work is [text-guided image compression](https://taco-nic.github.io). I worked with [Prof. Tae-Hyun Oh](https://ami.postech.ac.kr/members/tae-hyun-oh) on [Audio Captioning](https://prefixaac.github.io), and with [Prof. Sangpil Kim](https://kuaicv.com/professor/) on the event-based photometric stereo. 
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
 ## Publications 📜
 
+(\* means 'equal contribution')
+
+Hagyeong Lee*, **Minkyu Kim***, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee, "Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity", ICML, 2024
+
+**Minkyu Kim***, Kim Sung-Bin*, Tae-Hyun Oh, "PREFIX TUNING FOR AUTOMATED AUDIO CAPTIONING", ICASSP **(Oral)**, 2023
+
+
 ## Teaching Experience  📝
 
+* (Fall 2023) [EECE454 - Introduction to ML Systems, Teaching Assistant](https://jaeho-lee.github.io/docs/teaching/fall23/)
+
+
 ## Services 😊
+* (Peer Review, 2023-2024) IEEE/ACM Transactions on Audio, Speech, and Language Processing
+
+
 
 <!--[Link to another page](./another-page.html).
 
