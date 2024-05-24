@@ -15,9 +15,9 @@ In EffL, I'm mainly focusing on data compression. My recent work is [text-guided
 
 (\* means 'equal contribution')
 
-Hagyeong Lee*, **Minkyu Kim***, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee, "Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity", ICML, 2024
+Hagyeong Lee\*, **Minkyu Kim**\*, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee, "Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity", ICML, 2024
 
-**Minkyu Kim***, Kim Sung-Bin*, Tae-Hyun Oh, "Prefix tuning for automated audio captioning", ICASSP **(Oral)**, 2023
+**Minkyu Kim**\*, Kim Sung-Bin\*, Tae-Hyun Oh, "Prefix tuning for automated audio captioning", ICASSP **(Oral)**, 2023
 
 
 ## Teaching Experience  📝
