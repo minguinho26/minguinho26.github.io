@@ -7,10 +7,9 @@ I'm a M.S. student at [POSTECH Efficient Learning Lab (EffL)](http://effl.postec
 
 (constructing...)
 
-In EffL, I'm mainly focusing on data compression. My recent work is [text-guided image compression](https://taco-nic.github.io). Before joining EffL, I worked with [Prof. Tae-Hyun Oh]() on Audio Captioning, and with Prof. Sanpil Kim on event-based photometric stereo.
+In EffL, I'm mainly focusing on data compression. My recent work is [text-guided image compression](https://taco-nic.github.io). Before joining EffL, I worked with [Prof. Tae-Hyun Oh](https://ami.postech.ac.kr/members/tae-hyun-oh) on [Audio Captioning](https://prefixaac.github.io), and with [Prof. Sangpil Kim](https://kuaicv.com/professor/) on event-based photometric stereo.
 
 
-In EffL, I'm mainly focusing on data compression. My recent work is [text-guided image compression](https://taco-nic.github.io). Before joining EffL, I worked with [Tae-Hyun Oh]() on Audio Captioning, and with [Sanpil Kim]() on event-based photometric stereo.
 
 
 conducted research using data from various domains.
