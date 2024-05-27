@@ -7,7 +7,7 @@ I'm a second-year M.S. student in GSAI (Graduate School of Artificial Intelligen
 
 My research interest lies in multimodal learning, which trains artificial intelligence by using data from various domains (such as images, text, and audio) and uses it to solve multiple tasks. Additionally, my main goal is to design artificial intelligence that assists people in various situations.
 
-In EffL, I'm mainly focusing on data compression. My recent work is [text-guided image compression](https://taco-nic.github.io). I worked with [Prof. Tae-Hyun Oh](https://ami.postech.ac.kr/members/tae-hyun-oh) on [Audio Captioning](https://prefixaac.github.io), and with [Prof. Sangpil Kim](https://kuaicv.com/professor/) on the event-based photometric stereo. 
+In EffL, I'm mainly focusing on data compression. My recent work is [text-guided image compression](https://taco-nic.github.io). I worked with [Prof. Tae-Hyun Oh](https://ami.postech.ac.kr/members/tae-hyun-oh) on [audio captioning](https://prefixaac.github.io), and with [Prof. Sangpil Kim](https://kuaicv.com/professor/) on the event-based photometric stereo. 
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
