@@ -20,7 +20,7 @@ Hagyeong Lee\*, **Minkyu Kim**\*, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho L
 **Minkyu Kim**\*, Kim Sung-Bin\*, Tae-Hyun Oh, ["Prefix tuning for automated audio captioning"](https://prefixaac.github.io), ICASSP **(Oral)**, 2023
 
 
-## Teaching Experience  📝
+## Teaching Experience 📝
 
 * (Fall 2023, Teaching Assistant) [EECE454 - Introduction to ML Systems](https://jaeho-lee.github.io/docs/teaching/fall23/)
 
