@@ -25,9 +25,9 @@ Hagyeong Lee\*, **Minkyu Kim**\*, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho L
 * (Fall 2023, Teaching Assistant) [EECE454 - Introduction to ML Systems](https://jaeho-lee.github.io/docs/teaching/fall23/)
 
 
-## Services 😊
+## Services 💼
 * (Peer Review) IEEE/ACM Transactions on Audio, Speech, and Language Processing
-
+* (Military service: Auxiliary Police 👮, 2018.3 ~ 2019.11) Seoul Seongdong Police Station, Seoul Gangbuk Police Station
 
 
 <!--[Link to another page](./another-page.html).
