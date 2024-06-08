@@ -27,7 +27,7 @@ Hagyeong Lee\*, **Minkyu Kim**\*, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho L
 
 ## Services 💼
 * (Peer Review) IEEE/ACM Transactions on Audio, Speech, and Language Processing
-* (Military service: Auxiliary Police 👮, 2018.3 ~ 2019.11) Seoul Seongdong Police Station, Seoul Gangbuk Police Station
+* (Military service, 2018.3 ~ 2019.11) Auxiliary Police 👮
 
 
 <!--[Link to another page](./another-page.html).
