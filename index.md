@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Hi, I'm minkyu kim 👋
-I'm a second-year M.S. student in GSAI (Graduate School of Artificial Intelligence) at [POSTECH Efficient Learning Lab (EffL)](http://effl.postech.ac.kr), advised by [Prof. Jaeho Lee](https://jaeho-lee.github.io). Before joining POSTECH, I completed my B.S. degree in electrical and electronics engineering from [Chung-Ang University (CAU)](https://www.cau.ac.kr/).
+I recently received my M.S. degree in Artificial Intelligence from POSTECH , where I was a member of the [POSTECH Efficient Learning Lab (EffL)](http://effl.postech.ac.kr) advised by [Prof. Jaeho Lee](https://jaeho-lee.github.io). Prior to POSTECH, I earned my B.S. in Electrical and Electronics Engineering from [Chung-Ang University (CAU)](https://www.cau.ac.kr/).
 
 My research interest lies in multimodal learning, which trains artificial intelligence by using data from various domains (such as images, text, and audio) and uses it to solve multiple tasks. Additionally, my main goal is to design artificial intelligence that assists people in various situations.
 
