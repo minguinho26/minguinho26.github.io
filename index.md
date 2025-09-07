@@ -3,11 +3,12 @@ layout: default
 ---
 
 ### Hi, I'm minkyu kim 👋
-I recently received my M.S. degree in Artificial Intelligence from POSTECH , where I was a member of the [POSTECH Efficient Learning Lab (EffL)](http://effl.postech.ac.kr) advised by [Prof. Jaeho Lee](https://jaeho-lee.github.io). Prior to POSTECH, I earned my B.S. in Electrical and Electronics Engineering from [Chung-Ang University (CAU)](https://www.cau.ac.kr/).
 
-My research interest lies in multimodal learning, which trains artificial intelligence by using data from various domains (such as images, text, and audio) and uses it to solve multiple tasks. Additionally, my main goal is to design artificial intelligence that assists people in various situations.
+I received my M.S. degree in Artificial Intelligence from POSTECH in August 2025, where I was a member of the  [POSTECH Efficient Learning Lab (EffL)](http://effl.postech.ac.kr) advised by [Prof. Jaeho Lee](https://jaeho-lee.github.io). Prior to POSTECH, I earned my B.S. in Electrical and Electronics Engineering from [Chung-Ang University (CAU)](https://www.cau.ac.kr/).
 
-In EffL, I'm mainly focusing on data compression. My recent work is [text-guided image compression](https://taco-nic.github.io). I worked with [Prof. Tae-Hyun Oh](https://ami.postech.ac.kr/members/tae-hyun-oh) on [audio captioning](https://prefixaac.github.io), and with [Prof. Sangpil Kim](https://kuaicv.com/professor/) on the event-based photometric stereo. 
+My research interest lies in multimodal learning, which trains artificial intelligence by using data from various domains (such as images, text, and audio). My main goal is to design artificial intelligence that assists people in various situations, and I am currently seeking opportunities where I can apply my skills in generative AI and multimodal learning to solve real-world challenges.
+
+In EffL, I mainly focused on data compression, and my final project was on [text-guided image compression](https://taco-nic.github.io). Previously, I worked with [Prof. Tae-Hyun Oh](https://ami.postech.ac.kr/members/tae-hyun-oh) on [audio captioning](https://prefixaac.github.io), and with [Prof. Sangpil Kim](https://kuaicv.com/professor/) on event-based photometric stereo.
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
