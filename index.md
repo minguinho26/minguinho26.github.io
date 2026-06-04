@@ -16,7 +16,7 @@ I earned my B.S. in Electrical and Electronics Engineering from [Chung-Ang Unive
 
 (\* means 'equal contribution')
 
-Jean Seo*, **Minkyu Kim***, Jeonguk Lee, Jisoo Jung, Wooseok Han, Eunho Yang, "When Multiple Scripts Matter: Evaluating ASR in Clinical Settings", Interspeech, 2026 [Paper will be available soon]
+Jean Seo\*, **Minkyu Kim**\*, Jeonguk Lee, Jisoo Jung, Wooseok Han, Eunho Yang, "When Multiple Scripts Matter: Evaluating ASR in Clinical Settings", Interspeech, 2026 [Paper will be available soon]
 
 Hagyeong Lee\*, **Minkyu Kim**\*, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee, ["Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity"](https://taco-nic.github.io), ICML, 2024
 
