@@ -43,5 +43,3 @@ Hagyeong Lee\*, **Minkyu Kim**\*, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho L
 ## Services 💼
 * (Peer Review) IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)
 * (Peer Review) AdaptFM Workshop @ ICML 2026
-
-Mandatory military service, Republic of Korea (2018–2019)
