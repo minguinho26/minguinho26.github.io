@@ -4,15 +4,16 @@ layout: default
 
 ### Hi, I'm Minkyu Kim 👋
 
-I am an AI Researcher at [AITRICS](https://aitrics.com/kr/). My research studies how linguistic variation interacts with the safety and fairness mechanisms of multimodal systems — for example, how dialect affects text-to-image safety filters, and how reliability degrades under real-world distribution shift in speech systems.
+I am an AI Researcher at [AITRICS](https://aitrics.com/kr/). My research is in multimodal learning, spanning vision–language and speech systems. I am currently interested in how these systems behave under linguistic variation — for example, how dialect affects text-to-image safety filters, and how speech recognition degrades under real-world distribution shift.
 
 Before AITRICS, I received my M.S. in Artificial Intelligence from POSTECH (August 2025), advised by [Prof. Jaeho Lee](https://jaeho-lee.github.io) at the [Efficient Learning Lab](http://effl.postech.ac.kr), where I worked on language-guided multimodal learning, including [text-guided image compression](https://taco-nic.github.io). I previously worked with [Prof. Tae-Hyun Oh](https://ami.kaist.ac.kr/members/tae-hyun-oh) on [audio captioning](https://prefixaac.github.io). I earned my B.S. in Electrical and Electronics Engineering from [Chung-Ang University](https://www.cau.ac.kr/index.do).
 
 ## Research Interests
 
-I work on the safety and fairness of multimodal systems under linguistic variation. Specifically:
+My background is in multimodal learning, and my current work studies how these systems behave under linguistic and demographic variation. Specifically:
 
-- Auditing how dialect and demographic variation surface failure modes in vision–language and speech systems
+- Vision–language and audio–language modeling, including text-guided image compression and audio captioning
+- How dialect and demographic variation surface failure modes in vision–language and speech systems
 - Group-robust training and evaluation under realistic distribution shift
 
 ## News 📰
