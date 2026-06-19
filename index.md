@@ -30,11 +30,11 @@ My background is in multimodal learning, and my current work studies how these s
 
 **Minkyu Kim**, Juhwan Choi, YoungBin Kim, "Not Safe for All: Auditing the Dialect Penalty in Text-to-Image Safety Pipelines", 2026
 
-**Minkyu Kim**\*, Vincent-Daniel Yun\*, Youngrae Kim\*, Suin Cho, Woosang Lim, Sunwoo Lee, "Rethinking Layer Redundancy: Calibration Matters More Than Search in LLM Depth Pruning", 2026
+**Minkyu Kim**\*, Vincent-Daniel Yun\*, Youngrae Kim\*, Suin Cho, Woosang Lim, Sunwoo Lee, ["Rethinking Layer Redundancy: Calibration Matters More Than Search in LLM Depth Pruning"](https://arxiv.org/pdf/2604.24938), 2026
 
 ### Published
 
-Jean Seo\*, **Minkyu Kim**\*, Jeonguk Lee, Jisoo Jung, Wooseok Han, Eunho Yang, "When Multiple Scripts Matter: Evaluating ASR in Clinical Settings", Interspeech, 2026
+Jean Seo\*, **Minkyu Kim**\*, Jeonguk Lee, Jisoo Jung, Wooseok Han, Eunho Yang, ["When Multiple Scripts Matter: Evaluating ASR in Clinical Settings"](https://arxiv.org/abs/2606.17826), Interspeech, 2026
 
 Hagyeong Lee\*, **Minkyu Kim**\*, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee, ["Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity"](https://taco-nic.github.io), ICML, 2024
 
