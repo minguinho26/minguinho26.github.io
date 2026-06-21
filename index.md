@@ -10,11 +10,11 @@ Before AITRICS, I received my M.S. in Artificial Intelligence from POSTECH (Augu
 
 ## Research Interests
 
-My background is in multimodal learning, and my current work studies how these systems behave under linguistic and demographic variation. Specifically:
+I work on multimodal learning, with a focus on how vision–language and speech systems behave across different user groups and conditions.
 
-- Vision–language and audio–language modeling, including text-guided image compression and audio captioning
-- How dialect and demographic variation surface failure modes in vision–language and speech systems
-- Group-robust training and evaluation under realistic distribution shift
+- Vision–language and audio–language modeling (text-guided image compression, audio captioning)
+- Robustness and safety under dialect and demographic variation
+- Group-robust training and evaluation under distribution shift
 
 ## News 📰
 
